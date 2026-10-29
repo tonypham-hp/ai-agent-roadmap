@@ -13,12 +13,6 @@ Kho tài nguyên học **AI Agent** được tổng hợp và phân loại để
 | [Bài nghiên cứu](research-papers/README.md) | Paper về reasoning, tool use và generative agents |
 | [Khóa học](courses/README.md) | Khóa học về Python, phân tích dữ liệu, Machine Learning, Deep Learning và công cụ dữ liệu |
 
-## Cách sử dụng
-
-- Chọn danh mục phù hợp với mục tiêu học tập.
-- Mở `README.md` trong từng thư mục để xem liên kết và mô tả ngắn.
-- Có thể học từ nền tảng Python/ML/LLM, sau đó chuyển sang tài liệu và dự án AI Agent chuyên sâu.
-
 ## Lưu ý
 
 Đây là danh sách tài nguyên tham khảo được tổng hợp để hỗ trợ tự học. Liên kết có thể thay đổi theo thời gian; hãy kiểm tra nội dung, yêu cầu đầu vào và chi phí của từng tài nguyên trước khi học. Các tài nguyên bên ngoài thuộc quyền sở hữu của tác giả hoặc tổ chức tương ứng.
