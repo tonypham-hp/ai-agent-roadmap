@@ -1,4 +1,4 @@
-# Cập nhật tài nguyên
+# Cập nhật tài nguyên _ Tony Pham
 
 - Thêm tài nguyên vào đúng thư mục danh mục.
 - Mỗi mục nên có tên, liên kết và mô tả ngắn.
